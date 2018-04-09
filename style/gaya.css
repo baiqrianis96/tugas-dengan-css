@@ -1,0 +1,85 @@
+body {
+	height: 100%;
+	margin: 0;
+	font-family: 'Saira Extra Condensed', serif;
+}
+.bg{
+	background-color: lightblue;
+	background-image: url("../bahan/foto.jpg");
+	height: 150%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.nama{
+	text-align: center;
+	font-size: 80px;
+	color: red;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.poto{
+	margin: 0 auto;
+	padding: 3% 0 1% 0;
+	text-align: center;
+}
+.poto-grs{
+	max-width: 15rem;
+	max-height: 15rem;
+	border: .5rem solid rgba(255,255,255,.2);
+
+}
+.poto-lingkaran{
+	border-radius: 50% !important;
+}
+.foto-grs{
+	max-width: 7rem;
+	max-height: 7rem;
+	border: .4rem solid rgba(255,255,255,.2);
+
+}
+
+.conten1{
+	background-color: blue;
+	float: left;
+	width: 28%;
+	padding-left: 5%;
+	height: 150px;
+}
+.conten2{
+	background-color: green;
+	float: left;
+	width: 28%;
+	padding-left: 5%;
+	height: 150px;
+	
+	}
+.conten3{
+	background-color: magenta;
+	float: left;
+	width: 28%;
+	padding-left: 5%;
+	height: 150px;
+	}
+.isi1{
+	background-color: chocolate;
+	float: left;
+	width: 30%;
+	padding: 10%;
+	height: 17%;
+}
+.isi2{
+	background-color: yellow;
+	float: left;
+	width: 30%;
+	padding-top: 10%;
+	height: 17%;
+	margin: 0;
+
+}
+.untukpeta{
+	width: 200%;
+	padding: 10%;
+	height: 200%;
+
+}
